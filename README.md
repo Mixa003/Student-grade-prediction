@@ -48,7 +48,7 @@ Inference: Provides a dedicated method for single-value predictions on new data.
 
 1. Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/ml-de-mini-pipeline.git
+git clone
 cd ml-de-mini-pipeline
 
 
